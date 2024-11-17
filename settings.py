@@ -1,0 +1,6 @@
+
+WIN_SIZE = WIN_W, WIN_H = 500, 500
+LINE_COLOR = (255, 255, 255, 255)
+GRID_COLOR = (255,255,255,127)
+SPRITE_DIR_PATH = 'assets/sprites'
+FONTS_DIR_PATH = 'assets/fonts'
